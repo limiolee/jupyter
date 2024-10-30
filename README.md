@@ -1,4 +1,4 @@
-<div style="position: relative; padding-bottom: 120%; padding-top: 30px; height: 0;">
+<div style="position: relative; width: 100%; height: 100vh;">
   <iframe 
     id="chart"
     src="https://jupyter.org/try-jupyter/lab/"
